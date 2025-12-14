@@ -1,6 +1,6 @@
 # AutomationProjectsPortfolio
 Hi, this is Mohammed Masood 👋
-This repository showcases some of my practical work on UI Automation, API Automation, Hybrid Framework development, and Java coding practice.
+This repository showcases some of my practical work on UI Automation, API Automation, Hybrid Framework development, MobileFramework with Appium and Java coding practice.
 
 This portfolio is a combination of multiple projects that demonstrate real-world automation skills including:
 
