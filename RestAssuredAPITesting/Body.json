@@ -1,0 +1,10 @@
+{
+  
+  "name": "john Johnson",
+  "location": "Australia",
+  "phone": "5143459671",
+  "courses": [
+    "Java",
+    "Maven"
+  ]
+}

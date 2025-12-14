@@ -1,0 +1,7 @@
+<suite name="Regression_Suite ">
+	<test name="Rgression_Suite ">
+		<classes>
+			<class name="testNgPackage1.MavenTestNgProject1.SoftAssertions" />
+		</classes>
+	</test>
+</suite>

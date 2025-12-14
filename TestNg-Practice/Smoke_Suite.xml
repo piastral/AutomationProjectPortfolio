@@ -1,0 +1,12 @@
+<suite name="Smoke_Suite ">
+	<test name="Smoke_Suite">
+		<classes>
+
+
+			<class name="testNgPackage1.MavenTestNgProject1.SoftAssertions" />
+			<class name="testNgPackage1.MavenTestNgProject1.HardAssertions" />
+
+
+		</classes>
+	</test>
+</suite>

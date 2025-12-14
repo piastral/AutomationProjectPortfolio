@@ -1,0 +1,11 @@
+TEST-NG :: for assertion purpose and running the xml file and many more ..
+extent report:: for reporting purpose 
+rest assured library :: from mvn-repository 
+JSONPATH
+GSON
+json
+scribejava-apis
+
+------------------------------------
+how to automate basic HTTP REQUEST 
+GET,PUT,POST,DELETE

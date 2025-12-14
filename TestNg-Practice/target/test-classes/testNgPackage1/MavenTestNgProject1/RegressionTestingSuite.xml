@@ -1,0 +1,9 @@
+<suite name = "Regression Testing ">
+<test name ="Rgression Testing " >
+<classes>
+<class name ="testNgPackage1.MavenTestNgProject1.SoftAssertions"/>
+<class name ="testNgPackage1.MavenTestNgProject1.DataProviderAnnotationFacebook"/>
+
+</classes>
+</test>
+</suite>

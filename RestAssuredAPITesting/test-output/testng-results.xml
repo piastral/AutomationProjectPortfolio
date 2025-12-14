@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-26T20:19:07 EST" name="Default suite" finished-at="2025-02-26T20:19:26 EST" duration-ms="18278">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T20:19:07 EST" name="Default test" finished-at="2025-02-26T20:19:26 EST" duration-ms="18278">
+      <class name="com.testautomation.apitesting.tests.AuthorizationsInApi_8">
+        <test-method signature="testBasicAuthentication()[pri:0, instance:com.testautomation.apitesting.tests.AuthorizationsInApi_8@dd8ba08]" started-at="2025-02-26T20:19:08 EST" name="testBasicAuthentication" finished-at="2025-02-26T20:19:26 EST" duration-ms="17883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicAuthentication -->
+      </class> <!-- com.testautomation.apitesting.tests.AuthorizationsInApi_8 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

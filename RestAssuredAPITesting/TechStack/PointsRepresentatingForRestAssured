@@ -1,0 +1,14 @@
+SOAP API IS VERY OLD NOT USED NOW ADAY
+REST API :: IS USED NOW A DAYS
+ When api is moved to prod envo than it is called web service 
+ all web-services are API but not all Api are WEBSERVICES 
+ 
+ It is an open source library hence free and are used for testing and validating REST api 
+ it is capable of validating HTTP RESPONSE FROM THE SERVER. very rich in syntax and ready made assertions
+ rest assured is easy and straightforward 
+ response is given in json or xml format and easy to parse and validate 
+ it can be easiy integrated with other java libraries like testng 
+ ALSO has very good
+ support for various API AUTHENTICATION
+ ------------------------------------------------------------------------------------------------
+  
